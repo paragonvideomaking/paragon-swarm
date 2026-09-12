@@ -45,12 +45,19 @@ htmlcov/
 .swarm_run/
 
 # These files are generated automatically
-ai_system/HIDDEN_TESTS.md
-ai_system/HIDDEN_TESTS_DRAFT.md
+HIDDEN_TESTS.md
+HIDDEN_TESTS_DRAFT.md
 
 # Runtime artifacts
 candidate.py
 hidden_tests.py
+
+# ==============================
+# Local backups
+# ==============================
+
+*.bak
+*.bak.*
 
 # ==============================
 # Logs
